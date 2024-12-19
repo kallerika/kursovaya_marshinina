@@ -1,0 +1,32 @@
+[
+  {
+    "ingredient_id": "1",
+    "ingredient_name": "Кофе",
+    "stock_quantity": 50
+  },
+  {
+    "ingredient_id": "2",
+    "ingredient_name": "Молоко",
+    "stock_quantity": 20
+  },
+  {
+    "ingredient_id": "3",
+    "ingredient_name": "Сахар",
+    "stock_quantity": 10
+  },
+  {
+    "ingredient_id": "4",
+    "ingredient_name": "Сливки",
+    "stock_quantity": 12
+  },
+  {
+    "ingredient_id": "5",
+    "ingredient_name": "Вода",
+    "stock_quantity": 8
+  },
+  {
+    "ingredient_id": "6",
+    "ingredient_name": "Сироп",
+    "stock_quantity": 15
+  }
+]

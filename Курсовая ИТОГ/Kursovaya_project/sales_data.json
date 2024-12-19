@@ -1,0 +1,22 @@
+[
+  {
+    "product_id": "1",
+    "sold_units": 15
+  },
+  {
+    "product_id": "2",
+    "sold_units": 7
+  },
+  {
+    "product_id": "3",
+    "sold_units": 3
+  },
+  {
+    "product_id": "4",
+    "sold_units": 2
+  },
+  {
+    "product_id": "5",
+    "sold_units": 10
+  }
+]
